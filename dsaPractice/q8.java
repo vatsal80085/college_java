@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q8 {
     public static int binarySearch(int[] nums, int target) {
         int left = 0;

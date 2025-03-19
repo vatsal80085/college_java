@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q4 {
 
     public static int reverseInteger(int x) {

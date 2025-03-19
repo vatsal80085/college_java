@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q2alter {
     public static void rotate(int nums[], int k){
         k=k%nums.length;

@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q7 {
     public static int secondLargest(int[] nums){
         int largest=Integer.MIN_VALUE;

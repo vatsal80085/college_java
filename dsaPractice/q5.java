@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q5 {
     public static int majorityElement(int nums[]){
         int count=0;

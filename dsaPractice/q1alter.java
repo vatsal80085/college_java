@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q1alter {
     public static int[] findMinMax(int[] nums){
         int max = nums[0];

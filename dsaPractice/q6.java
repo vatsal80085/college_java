@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q6 {
     public static boolean isSorted(int nums[]){
         for(int i=1; i<nums.length; i++){

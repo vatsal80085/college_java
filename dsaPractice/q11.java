@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q11 {
     public static boolean isPalindrome(String s){
         String words = s.toLowerCase().replaceAll("[^a-z0-9]","");

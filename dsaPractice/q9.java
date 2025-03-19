@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q9 {
     public static int[] searchRange(int[] nums, int target) {
         int[] result = {-1, -1}; // Default result if target not found
