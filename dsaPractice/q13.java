@@ -1,6 +1,5 @@
 package dsaPractice;
 
-import java.util.*;
 public class q13 {
 
     public static int VowelStrings(String[] words, int left, int right)
