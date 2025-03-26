@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q9alter {
     public static int[] firstAndLastOcc(int arr[], int target){
         int first=0;

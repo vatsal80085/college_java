@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q22 {
     public static int removeDuplicateInSortedArray(int[] arr){
         if(arr.length==0){

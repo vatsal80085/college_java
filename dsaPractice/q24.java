@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q24 {
     
     public static void reverseStrings(String[] s){

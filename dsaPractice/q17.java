@@ -1,3 +1,5 @@
+package dsaPractice;
+
 import java.util.Scanner;
 
 public class q17 {

@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q16 {
 
     public static int countHomogenous(String s){

@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q20 {
     public static void moveZeroes(int[] arr){
         int[] temp= new int[arr.length];

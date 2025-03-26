@@ -1,3 +1,5 @@
+package dsaPractice;
+
 import java.util.HashMap;
 
 public class q26 {

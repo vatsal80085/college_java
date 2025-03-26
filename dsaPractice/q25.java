@@ -1,3 +1,5 @@
+package dsaPractice;
+
 public class q25 {
 
     public static boolean isVowel(char ch){
