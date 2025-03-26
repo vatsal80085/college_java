@@ -1,7 +1,5 @@
 package dsaPractice;
 
-import java.util.Scanner;
-
 public class q17 {
     public static int climbingStairs(int n){
         
