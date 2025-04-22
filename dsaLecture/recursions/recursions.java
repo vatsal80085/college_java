@@ -1,3 +1,5 @@
+package recursions;
+
 import java.util.Scanner;
 
 // when a function calls itself again and again until a certain condition is met

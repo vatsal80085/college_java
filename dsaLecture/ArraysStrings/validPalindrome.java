@@ -1,3 +1,4 @@
+package ArraysStrings;
 
 public class validPalindrome {
     public static void main(String[] args) {

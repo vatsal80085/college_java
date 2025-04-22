@@ -1,3 +1,4 @@
+package recursions;
 public class backtracking {
     //print n to 1
     public static void printNto1(int i, int n){

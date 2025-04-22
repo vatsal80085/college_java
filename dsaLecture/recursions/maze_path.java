@@ -1,3 +1,4 @@
+package recursions;
 public class maze_path {
     public static void main(String[] args) {
         int row = 3;
