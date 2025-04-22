@@ -1,4 +1,4 @@
-package stacknqueue;
+package stacks;
 import java.util.Stack;
 public class next_element {
     public static void main(String[] args) {

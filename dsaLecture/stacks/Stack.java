@@ -1,4 +1,4 @@
-package stacknqueue;
+package stacks;
 public class Stack {
 
     private int[] arr;
